@@ -13,5 +13,7 @@
 </div>  
 </br>
 <div>
-  <h3>Languages and Tools</h3>
+  <h3>Languages and Tools:</h3>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+          
 </div>
