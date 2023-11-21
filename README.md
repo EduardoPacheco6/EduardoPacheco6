@@ -26,6 +26,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
 </div>
 
-&nbsp;<div align="center">
-[![Spotify](https://novatorem-1kv60y8es-eduardos-projects-94fd1de2.vercel.app/api/spotify)](https://open.spotify.com/user/edupachecogt?si=e4a99eee0b274996)
-</div>
+### Now Playing — Spotify 🎧
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=edupachecogt&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
