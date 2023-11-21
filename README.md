@@ -15,5 +15,6 @@
 <div>
   <h3>:Now Playing 🎧
   </br>
+  </br>  
   <a href="https://open.spotify.com/user/edupachecogt?si=ea3ca6fc90c54403"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Tocado recentemente no Spotify" ></a>
 </div>
