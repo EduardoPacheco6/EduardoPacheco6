@@ -1,4 +1,22 @@
 # 💻 Hello World!
+<p>
+
+Hi ✌️! I'm Eduardo, a full-stack developer in the making. I'm passionate about technology and I'm always looking for new ways to learn and grow. 
+
+<div>
+<details>
+  <summary>💡 More about me</summary>
+
+- 🔭 I’m currently on a journey to build **great** things
+
+- 🌱 I’m currently learning **everything** 🤓
+
+- 📫 Reach me out at **edu.pacheco.carvalho@gmail.com**
+
+</details>
+  
+</p>
+  
 
 <div align:"center">
   <a href="https://github.com/EduardoPacheco6">
